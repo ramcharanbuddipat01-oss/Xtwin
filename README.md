@@ -1,4 +1,4 @@
-# Export Digital Twin
+# export Digital Twin
 
 > **AI-powered Export Intelligence & Reconciliation Platform for Indian MSME Exporters**
 
